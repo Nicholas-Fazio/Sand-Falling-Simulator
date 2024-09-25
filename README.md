@@ -1,6 +1,9 @@
-#Sand Falling Simulator</br>
-##simulation of falling sand to fidget with</br>
-###Tools and Frameworks</br>
--Javascript</br>
--Canvas API</br>
--HTML & CSS</br>
+# Sand Falling Simulator
+
+## simulation of falling sand to fidget with
+
+### Tools and Frameworks
+
+- Javascript
+- Canvas API
+- HTML & CSS
