@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: whitesmoke;
+  text-align: center;
+  user-select: none;
+  margin-bottom: 5px;
+}
+.clearButton {
+  margin-bottom: 5px;
+  user-select: none;
+}
