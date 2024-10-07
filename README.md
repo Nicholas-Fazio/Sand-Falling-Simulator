@@ -9,3 +9,7 @@
 - Javascript
 - Canvas API
 - HTML & CSS
+
+### Instructions to run
+- I used VSCode Live Server Extenstion to run on local host
+- Once VSCode Live Server is downloaded, open the folder containing this project, and press Go Live
